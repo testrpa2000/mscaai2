@@ -1,0 +1,75 @@
+Expert System
+An expert system is a smart computer program that uses knowledge and logic to solve problems or make decisions in a specific area. 
+It tries to copy how a human expert would think by putting their knowledge into the program.
+
+AIML
+Artificial Intelligence Markup Language
+AIML is a type of language used to make chatbots and talk computers smarter. 
+AIML helps chatbots better understand and talk like humans.
+
+Bot
+A bot is a type of software that can do tasks automatically, have conversations with people, or interact through text or voice. 
+They can be simple with basic tasks or advanced with artificial intelligence to understand language and learn from interactions.
+
+Bayes' Theorem 
+is a math tool that helps to adjust the likelihood of something happening based on new info. 
+It is helpful when we want to estimate how likely something is based on what we already know and what we see.
+
+Conditional Probability: 
+This is the chance of an event happening based on another event that has already happened.
+
+Joint Probability: 
+is the chance of multiple events happening at the same time. 
+It shows how likely it is for two or more events to happen together.
+
+Supervised Learning: 
+Supervised learning is a type of machine learning where the computer learns from labeled data, which means data that includes the correct answers.
+
+Unsupervised Learning: 
+Unsupervised learning is a type of machine learning where the computer learns from data that does not have correct answers provided. 
+The goal is to find hidden patterns or structures in the data without any guidance.
+
+Clustering Algorithm: 
+Clustering algorithms group similar data points together without needing prior knowledge of the groups, helping to find patterns in the data. 
+
+Support Vector Machine (SVM) Algorithm: 
+SVM is a learning algorithm used for classification and regression tasks. 
+It finds the best hyperplane to separate classes in data, aiming to maximize the margin between classes.
+
+Regression 
+is a statistical method used to model and analyze the relationship between a dependent variable and one or more independent variables. It is commonly used for prediction, forecasting, and understanding the underlying relationship between variables.
+
+Artificial Neural Networks (ANN) 
+are computer systems that learn by imitating the brain's neural networks. 
+They consist of interconnected nodes or neurons that process input data and produce outputs through a training process. 
+
+Feedforward is a specific type of neural network that processes information in one direction, without looping back. 
+Each layer of neurons is connected to the next layer, and there are no connections within a layer or from higher to lower layers. It is commonly used for tasks like classification and pattern recognition.
+
+Backpropagation is a method used to teach artificial neural networks to make predictions closer to the actual results. 
+It does this by adjusting the network's internal settings based on the errors made during prediction. 
+By making small changes to these settings, the network gets better at making accurate predictions over time.
+
+Genetic Algorithm: 
+Genetic algorithms are inspired by nature, specifically natural selection and genetics. 
+They are a type of search-based algorithm and a part of computation methods.
+
+Intelligent Agents: 
+Intelligent agents are entities that can sense their environment, make decisions, and take actions to achieve goals. 
+They can be software agents, robots, or other forms that use techniques like machine learning to adapt to different situations. 
+They are used in various applications like autonomous systems and customer service bots.
+
+Language parser is a tool that understands and grabs the important information from text. 
+It uses different methods like rules, statistics, and deep learning. 
+These tools are helpful in tasks like reading text, tagging words, recognizing names, and understanding sentence structure. 
+
+Semantic Web helps machines understand the meaning of online content. 
+It organizes data in a way that makes it easier for computers to process and make sense of. 
+Some important technologies in Semantic Web are RDF, OWL, and SPARQL. 
+To simulate the Semantic Web, we create structures to show relationships between things and add extra info to web content for better searching and understanding.
+
+FuzzyWuzzy is a Python library used for fuzzy string matching. 
+
+Rule-based system
+It's like a smart computer system that can make choices and do things using specific rules and information it receives.
+
